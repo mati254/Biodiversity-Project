@@ -50,7 +50,7 @@ Column Names include:
 
 
 ```python
-species = pd.read_csv('species_info.csv')
+species = pd.read_csv('species_info.csv', encoding='utf-8')
 species.head()
 ```
 
