@@ -472,8 +472,7 @@ ax.set_ylabel("Number of Species");
 ```
 
 
-    
-![png](output_32_0.png)
+![output_32_0](https://github.com/mati254/Biodiversity-Project/assets/148381703/84412cae-d714-4380-830d-9ec8db6bb3b7)
     
 
 
